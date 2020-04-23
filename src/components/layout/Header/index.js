@@ -1,5 +1,5 @@
 import React from 'react'
-import { Toolbar, Typography, IconButton } from '@material-ui/core'
+import { Typography, IconButton } from '@material-ui/core'
 import Night from '@material-ui/icons/Brightness3';
 import Day from '@material-ui/icons/Brightness5'
 import { AppBarStyled, ToolbarStyled } from './styles'
